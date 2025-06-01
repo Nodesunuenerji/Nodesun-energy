@@ -90,7 +90,7 @@
       "settings": {
         "logo_position": "right",
         "menu_position": "center",
-        "menu_row": "top",
+        "menu_row": "bottom",
         "show_search": true,
         "search_position": "right",
         "search_row": "top",
