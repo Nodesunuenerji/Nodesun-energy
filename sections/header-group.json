@@ -49,11 +49,11 @@
           "static": true,
           "settings": {
             "hide_logo_on_home_page": false,
-            "custom_height": 20,
-            "custom_height_mobile": 20,
-            "padding-block-start": 16,
-            "padding-block-end": 16,
-            "padding-inline-start": 10,
+            "custom_height": 100,
+            "custom_height_mobile": 100,
+            "padding-block-start": 19,
+            "padding-block-end": 11,
+            "padding-inline-start": 17,
             "padding-inline-end": 10
           },
           "blocks": {}
