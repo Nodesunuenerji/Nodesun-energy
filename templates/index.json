@@ -57,11 +57,11 @@
               "type": "_product-list-text",
               "name": "t:names.collection_title",
               "settings": {
-                "text": "<h5></h5><h5></h5><h5></h5><h6>Unite Comfort with Sustainable Living: Create Your Own Space!</h6>",
+                "text": "<h5></h5><h5></h5><h5></h5><h6>Unite Comfort with Sustainable Living:   </h6><h6>Create Your Own Space!</h6>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
-                "type_preset": "h2",
+                "type_preset": "custom",
                 "font": "var(--font-primary--family)",
                 "font_size": "",
                 "line_height": "normal",
