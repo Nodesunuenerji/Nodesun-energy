@@ -625,7 +625,7 @@
       },
       "name": "t:names.media_with_text",
       "settings": {
-        "media_position": "right",
+        "media_position": "left",
         "media_width": "medium",
         "media_height": "50svh",
         "section_width": "page-width",
