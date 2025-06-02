@@ -508,7 +508,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
-            "image": "shopify://shop_images/man-hiking-in-mountains.jpg",
+            "image": "shopify://shop_images/solar_powerbank.webp",
             "link": "",
             "video_loop": true,
             "video_autoplay": true,
@@ -625,7 +625,7 @@
       },
       "name": "t:names.media_with_text",
       "settings": {
-        "media_position": "left",
+        "media_position": "right",
         "media_width": "medium",
         "media_height": "50svh",
         "section_width": "page-width",
