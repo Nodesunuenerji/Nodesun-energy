@@ -11,6 +11,7 @@
   "sections": {
     "hero_iLBwPd": {
       "type": "hero",
+      "disabled": true,
       "name": "t:names.hero",
       "settings": {
         "bg_image": "shopify://shop_images/urban-camping-set-up.jpg"
