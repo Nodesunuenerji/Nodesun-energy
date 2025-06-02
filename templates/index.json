@@ -57,7 +57,7 @@
               "type": "_product-list-text",
               "name": "t:names.collection_title",
               "settings": {
-                "text": "<h6>Light Up Your Life with Solar Energy Innovations   </h6><p>Explore Discover Collections</p>",
+                "text": "<h6>Light Up Your Life with Solar Energy Innovations   </h6><p>Discover Collections</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
