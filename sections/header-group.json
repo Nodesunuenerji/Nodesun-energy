@@ -53,8 +53,8 @@
             "custom_height_mobile": 35,
             "padding-block-start": 19,
             "padding-block-end": 11,
-            "padding-inline-start": 17,
-            "padding-inline-end": 10
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
           },
           "blocks": {}
         },
