@@ -26,6 +26,7 @@
     "secondary_button_border_width": 0,
     "cart_type": "drawer",
     "drawer_color_scheme": "scheme-1",
+    "popover_color_scheme": "scheme-1",
     "popover_border": "none",
     "currency_code_enabled_product_pages": false,
     "currency_code_enabled_product_cards": false,
