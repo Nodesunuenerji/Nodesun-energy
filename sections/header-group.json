@@ -88,7 +88,7 @@
         }
       },
       "settings": {
-        "logo_position": "right",
+        "logo_position": "center",
         "menu_position": "center",
         "menu_row": "bottom",
         "show_search": true,
